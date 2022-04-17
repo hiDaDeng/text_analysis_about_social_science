@@ -1,0 +1,2 @@
+# text_analysis_about_social_science
+社会科学类文本分析快速指南
